@@ -4,20 +4,20 @@ The project focuses on clear visualization, easy understanding, and real-time an
 Unlike traditional firewalls, this tool does not modify system security settings or block traffic. Instead, it is designed as an analysis and monitoring tool that helps users understand what is happening on their network in real time — ideal for students, beginners, and cybersecurity learners.
 
 # Key Objectives
-To monitor live network connections in an easy and understandable format
-To classify network traffic based on simple rule-based logic
-To present real-time updates using a modern terminal UI
-To help users visually detect suspicious or unknown connections
+To monitor live network connections in an easy and understandable format,
+To classify network traffic based on simple rule-based logic,
+To present real-time updates using a modern terminal UI,
+To help users visually detect suspicious or unknown connections.
 
 # Why This Project is Useful
-Helps users understand incoming and outgoing network traffic
-Shows how firewalls classify traffic based on ports and addresses
-Demonstrates practical use of Python in cybersecurity
-Useful for college projects, learning OS networking, and real-time monitoring
+Helps users understand incoming and outgoing network traffic,
+Shows how firewalls classify traffic based on ports and addresses,
+Demonstrates practical use of Python in cybersecurity,
+Useful for college projects, learning OS networking, and real-time monitoring.
 
 # Core Features
-Real-time monitoring of TCP/UDP connections
-Works without administrator permissions
-Automatically detects and highlights suspicious connections
-Clean, professional dashboard with Rich library
-Easy to run, simple to understand
+Real-time monitoring of TCP/UDP connections,
+Works without administrator permissions,
+Automatically detects and highlights suspicious connections,
+Clean, professional dashboard with Rich library,
+Easy to run, simple to understand.
